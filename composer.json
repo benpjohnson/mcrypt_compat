@@ -1,5 +1,5 @@
 {
-    "name":         "phpseclib/mcrypt_compat",
+    "name":         "benpjohnson/mcrypt_compat",
     "description":  "PHP 7.1 polyfill for the mcrypt extension from PHP <= 7.0",
     "keywords": [
             "mcrypt",
